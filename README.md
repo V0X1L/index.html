@@ -22,8 +22,7 @@ Formation :
        formations pertinentes que nous avons obtenus, avec les dates correspondantes.
 
 Contact : 
-       Enfin, cette section fournit les moyens de nous contacter, tels que notre adresse e-mail, nos profils sur
-       les réseaux sociaux professionnels, ou un formulaire de contact intégré au site.
+       Enfin, cette section fournit les moyens de nous contacter, tels que notre adresse e-mail ou notre numero de telephone
 
 Stylisation : 
        Le site est conçu avec une esthétique professionnelle et épurée. Le choix de couleurs est sobre et élégant. 
