@@ -5,7 +5,8 @@ Objectif du site : Notre site web est conçu pour présenter de manière interac
 Il vise à fournir aux visiteurs une vue d'ensemble complète de notre parcours professionnel et à faciliter la prise de contact pour d'éventuelles opportunités d'emploi ou de collaboration.
 
 le site fait office d'une seul page contenant:
-*les liens du haut de page renvoient vers chaque section. 
+
+Note: les liens du haut de page renvoient vers chaque section. 
 
 Accueil : 
        La page d'accueil présente une barre de navigation permettant de naviguer facilement vers différentes sections
