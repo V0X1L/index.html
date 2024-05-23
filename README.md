@@ -1,5 +1,5 @@
 Mon CV en ligne
-Bienvenue sur Linkedin ! Ce site a été conçu pour présenter de manière interactive et professionnelle des expériences, des formation, des compétences et des informations de contact. Il permet aux visiteurs de choisir parmi plusieurs CV disponibles.
+Bienvenue sur Linkedin ! Ce site a été conçu pour présenter de manière interactive et professionnelle des expériences, des formations, des compétences et des informations de contact. Il permet aux visiteurs de choisir parmi plusieurs CV disponibles.
 
 Fonctionnalités
 
